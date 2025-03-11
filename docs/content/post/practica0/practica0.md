@@ -1,10 +1,13 @@
-# Resumen de Herramientas Fundamentales de Desarrollo de Software
++++
+date = '2025-03-11T08:44:00-08:00'
+draft = false
+title = 'Práctica #0 Uso de Repositorios'
++++
 
+
+# Herramientas Fundamentales de Desarrollo de Software
 
 ## **PARADIGMAS DE LA PROGRAMACIÓN**
-
-## **Práctica #0 Uso de Repositorios**
-
 
 Durante varias sesiones, se llevó a cabo un proceso continuo de aprendizaje sobre herramientas fundamentales de desarrollo de software, incluidos Markdown, Git, GitHub y Hugo. Este ensayo resume las experiencias adquiridas durante dichas sesiones.
 
