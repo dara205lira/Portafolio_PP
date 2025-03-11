@@ -1,7 +1,7 @@
 +++
 date = '2025-02-21T08:44:00-08:00'
 draft = false
-title = 'Practica0'
+title = 'Práctica #0'
 +++
 
 
@@ -74,10 +74,10 @@ Esto es un texto ~~rayado~~
 ![Cuadro Crepper](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmx2SJUqz2EvNX9aJ8Iy5kWNYJmJMy66Btgw&s)
 
 
-![Calaca](./calaca.jpg "MINECRAFT")
+![Calaca](./imagesp0/calaca.jpg "MINECRAFT")
 
 
-[![Minecraft logo](./Minecraft-Logo-2013.png "Minecraft")](https://www.minecraft.net/es-es)
+[![Minecraft logo](./imagesp0/Minecraft-Logo-2013.png "Minecraft")](https://www.minecraft.net/es-es)
 
 
 <!-- Bloques de código -->
