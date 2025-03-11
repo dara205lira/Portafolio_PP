@@ -4,10 +4,10 @@ draft = false
 title = 'Práctica #0 Uso de Repositorios'
 +++
 
+# **PARADIGMAS DE LA PROGRAMACIÓN**
 
-# Herramientas Fundamentales de Desarrollo de Software
 
-## **PARADIGMAS DE LA PROGRAMACIÓN**
+## Herramientas Fundamentales de Desarrollo de Software
 
 Durante varias sesiones, se llevó a cabo un proceso continuo de aprendizaje sobre herramientas fundamentales de desarrollo de software, incluidos Markdown, Git, GitHub y Hugo. Este ensayo resume las experiencias adquiridas durante dichas sesiones.
 
