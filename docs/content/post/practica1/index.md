@@ -4,6 +4,7 @@ draft = false
 title = 'Práctica #1 Elementos Básicos de los Lenguajes de Programación'
 +++
 
+
 # **PARADIGMAS DE LA PROGRAMACIÓN**
 
 ## Identificación de elementos en los lenguajes de programación

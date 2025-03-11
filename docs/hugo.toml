@@ -1,4 +1,4 @@
-baseURL = 'https://dara205lira.github.io/Portafolio_PP/'
+baseURL = "http://localhost:1313/"
 languageCode = 'en-us'
-title = 'Portafolio de Paradigmas de la Programación'
+title = 'Portafolio de PP'
 theme = 'ananke'
