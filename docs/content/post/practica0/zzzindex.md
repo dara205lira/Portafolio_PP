@@ -73,11 +73,10 @@ Esto es un texto ~~rayado~~
 
 ![Cuadro Crepper](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmx2SJUqz2EvNX9aJ8Iy5kWNYJmJMy66Btgw&s)
 
-
 ![Calaca](./imagesp0/calaca.jpg "MINECRAFT")
 
+[![Minecraft logo](./imagesp0/logoMin.png "Minecraft")](https://www.minecraft.net/es-es)
 
-[![Minecraft logo](./imagesp0/Minecraft-Logo-2013.png "Minecraft")](https://www.minecraft.net/es-es)
 
 
 <!-- Bloques de código -->

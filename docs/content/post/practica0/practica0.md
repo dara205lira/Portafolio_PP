@@ -12,7 +12,7 @@ Durante varias sesiones, se llevó a cabo un proceso continuo de aprendizaje sob
 
 En la primera sesión, se observó la funcionalidad y la sintaxis de Markdown como lenguaje de marcado, utilizado para mejorar la legibilidad en la publicación de páginas estáticas. El docente actuó como guía en el entendimiento de este lenguaje, y los conocimientos adquiridos fueron implementados en un archivo `.md`. En dicho archivo, se experimentó con las distintas sintaxis que ofrece Markdown.
 
-![pantallamark](./static/imagesp0/pantallamark.png "VsCode Sintaxis y uso de markdown")
+![pantallamark](./imagesp0/pantallamark.png "VsCode Sintaxis y uso de markdown")
 
 ## Uso de Git y GitHub
 
@@ -37,7 +37,7 @@ Estos comandos son usados a lo largo de las prácticas para la gestión de los p
 
 En clase, se subieron todos nuestros archivos de prueba a un repositorio de GitHub. A medida que avanzaban las sesiones, se creó un portafolio para la materia, ya que continuamente se implementaría código para reforzar la información adquirida.
 
-![porta](./static/imagesp0/porta.png "VsCode Carpeta Portafolio de Paradigmas")
+![porta](./imagesp0/porta.png "VsCode Carpeta Portafolio de Paradigmas")
 
 ## Integración de Hugo para la Creación de Sitios Web Estáticos
 
