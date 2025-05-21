@@ -5,7 +5,7 @@ title = 'Práctica #4 El Paradigma Lógico'
 
 # **PARADIGMAS DE LA PROGRAMACIÓN**
 
-## Identificación de elementos en el Paradigma Orientado a Objetos
+## Elementos e Implementación del Paradigma Lógico
 
 En la práctica de taller, el docente proporcionó un código fuente para que los estudiantes experimentaran con él. Este código incluía un programa con varios elementos que los alumnos pudieron identificar e implementar.
 
